@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi 👋! My name is Abhang Pawar and I'm studying in Indian Institute of Information Technology Dharwad , I'm interested in learning Web Dev , AI , ML , Cloud .
+Hi 👋 I’m Abhang Pawar
+Currently studying at IIIT Dharwad 🎓
+Curious about all things Web Dev, AI, ML, and Cloud ☁️
+Always learning, always building 🚀
 
 
 ## 🌐 Socials:
