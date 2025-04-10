@@ -1,8 +1,11 @@
 # 💫 About Me:
-Hi 👋 I’m Abhang Pawar
-Currently studying at IIIT Dharwad 🎓
-Curious about all things Web Dev, AI, ML, and Cloud ☁️
-Always learning, always building 🚀
+# Hi there 👋 I'm Abhang Pawar
+
+🎓 I'm a B.Tech student at **Indian Institute of Information Technology, Dharwad**  
+🌱 Currently exploring **Web Development**, **AI**, **Machine Learning**, and **Cloud**  
+💡 Always curious, always building  
+📫 Let’s connect and grow together!
+
 
 
 ## 🌐 Socials:
