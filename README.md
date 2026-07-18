@@ -2,9 +2,6 @@
 
 <img src="./assets/banner.svg" alt="banner" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=8A8A8A&center=true&vCenter=true&width=650&lines=building+agentic+AI+that+ships;LangGraph+%2B+FastAPI+%2B+Redis+%2B+React;from+RAG+pipelines+to+production+dashboards" alt="typing" />
 
 </div>
 
@@ -16,43 +13,21 @@
 
 ## `01` About
 
-<img src="./assets/about.svg" width="100%" alt="about panel" />
+<br/>
 
-<br/><br/>
-
-AI Solution Builder currently at **Ernst & Young**, designing multi-agent systems that pair
+AI Solution Builder at **Ernst & Young**, designing multi-agent systems that pair
 LLM reasoning with rule-based guardrails. I like the seam between research and production —
 taking an agent pipeline from a notebook to a Dockerized service with a real UI in front of it.
 
-- 🔭 Building agentic assistants with human-in-the-loop approval flows
-- 🌱 Deep in LangGraph orchestration, LLMOps, and quantized fine-tuning (LoRA)
-- 🏆 Winner, FIFS Gameathon 2.0 (₹1,00,000 prize) · Finalist, Aventus 3.0 · Winner, Monad Blitz
-- 📫 `abhangpawar03@gmail.com`
+- Building agentic assistants 
+- Deep in LangGraph orchestration, LLMOps, and quantized fine-tuning (LoRA)
+- Hackathon Winner, FIFS Gameathon 2.0 (₹1,00,000 prize) · Finalist, Aventus 3.0 · Winner, Monad Blitz
 
 <img src="./assets/divider.svg" width="100%" />
 
 ## `02` Experience
 
 <img src="./assets/experience.svg" width="100%" alt="experience timeline" />
-
-<br/>
-
-**AI Solution Builder** · Ernst & Young (EY) — *May 2026 – Jul 2026*
-> Built a 3-agent wealth-management assistant: a lead-feed agent (news + scraping), an LLM
-> suggestion agent (OpenAI + Pydantic-validated output), and a rule-based diversification
-> engine — all wired through a LangGraph orchestrator with human-in-the-loop approval,
-> Redis as a hot workflow bus, PostgreSQL cold storage, and a React dashboard on FastAPI.
-
-**AI Team Lead → AI Developer** · Akai Space Hybrid — *Jan 2025 – Nov 2025*
-> Led two teams building automated labeling pipelines (image + audio). Shipped an AI video
-> labeling pipeline with FastAPI, LLM-as-Judge prompt tuning, MongoDB, and a Jenkins →
-> Docker → EC2 CI/CD pipeline.
-
-**Point of Contact, IIIT Dharwad Website** — *May 2025 – Present*
-> Improved site performance and UI/UX using Next.js, TypeScript, and Sanity.
-
-**Google Student Ambassador** — *Aug 2025 – Dec 2025*
-> Organized technical events promoting Google Gemini.
 
 <img src="./assets/divider.svg" width="100%" />
 
